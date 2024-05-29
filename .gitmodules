@@ -1,0 +1,6 @@
+[submodule "BackEndRestaurantLaReserve"]
+	path = BackEndRestaurantLaReserve
+	url = https://github.com/JawharVal/BackEndRestaurantLaReserve
+[submodule "FrontEndRestaurentLaReserve"]
+	path = FrontEndRestaurentLaReserve
+	url = https://github.com/JawharVal/FrontEndRestaurentLaReserve
