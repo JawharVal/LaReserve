@@ -4,4 +4,4 @@
 
 
 ## Презентация проекта
-[Презентация (pptx)](presentation/LA_RESERVE.pptx)
+Презентация [(pptx)](presentation/LA_RESERVE.pptx)
