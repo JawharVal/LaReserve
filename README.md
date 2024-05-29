@@ -14,4 +14,4 @@
  - [Frontend](https://github.com/JawharVal/FrontEndRestaurentLaReserve/tree/89d6f2b38161d0bdff011eb8bef0173eb3d552cd)
 
 ### API Документация
- - [Swagger)]([https://app.swaggerhub.com/apis/JAWHARMAATOUK1/La_Reserve/v2](https://github.com/JawharVal/LaReserve/tree/main/documentation/API))
+ - [Swagger)](https://github.com/JawharVal/LaReserve/tree/main/documentation/API)
