@@ -1,4 +1,4 @@
-![2](https://github.com/JawharVal/LaReserve/assets/112645981/aa70a974-8802-4cb2-bc8d-1c279f40685b)
+![Restaurant Reservation System](https://raw.githubusercontent.com/JawharVal/LaReserve/main/assets/112645981/aa70a974-8802-4cb2-bc8d-1c279f40685b.gif)
 
 # La Reserve
 
