@@ -1,4 +1,4 @@
-![Restaurant Reservation System](https://raw.githubusercontent.com/JawharVal/LaReserve/main/assets/112645981/aa70a974-8802-4cb2-bc8d-1c279f40685b.gif)
+![Restaurant Reservation System](https://github-production-user-asset-6210df.s3.amazonaws.com/112645981/338001878-aa70a974-8802-4cb2-bc8d-1c279f40685b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240609T184802Z&X-Amz-Expires=300&X-Amz-Signature=e8e414eac744f62a872f6dd32a584c84e50064c6e7fb7bfcdd6918199a005d4c&X-Amz-SignedHeaders=host&actor_id=112645981&key_id=0&repo_id=807588429)
 
 # La Reserve
 
